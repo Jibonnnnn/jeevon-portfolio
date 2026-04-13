@@ -2,6 +2,7 @@
 
 return [
 
+    Illuminate\View\ViewServiceProvider::class,
     /*
     |--------------------------------------------------------------------------
     | Application Name
